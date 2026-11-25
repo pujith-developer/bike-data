@@ -1,0 +1,15 @@
+{
+  "name": "bike-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private":true,
+  "scripts": {
+  "start": "json-server --watch data/db.json --host 0.0.0.0 --port $PORT"
+},
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

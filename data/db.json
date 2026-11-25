@@ -1,0 +1,133 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yamaha R15",
+      "category": "bike",
+      "price": 185000,
+      "description": "Sports bike with stylish design and powerful performance.",
+      "image": "/images/yamaha-r15.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Royal Enfield Classic 350",
+      "category": "bike",
+      "price": 195000,
+      "description": "Classic design with a comfortable riding experience.",
+      "image": "/images/classic-350.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bajaj Pulsar NS200",
+      "category": "bike",
+      "price": 145000,
+      "description": "Powerful street bike with sporty performance.",
+      "image": "/images/pulsar-ns200.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TVS Apache RTR 160",
+      "category": "bike",
+      "price": 120000,
+      "description": "Sporty bike designed for everyday performance.",
+      "image": "/images/apache-160.jpg"
+    },
+    {
+      "id": 5,
+      "name": "KTM Duke 200",
+      "category": "bike",
+      "price": 200000,
+      "description": "Aggressive naked bike with excellent handling.",
+      "image": "/images/ktm-duke.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Honda SP 125",
+      "category": "bike",
+      "price": 95000,
+      "description": "Fuel efficient bike suitable for daily use.",
+      "image": "/images/honda-sp125.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hero Xtreme 125R",
+      "category": "bike",
+      "price": 100000,
+      "description": "Modern street bike with sporty styling.",
+      "image": "/images/hero-xtreme.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bajaj Dominar 400",
+      "category": "bike",
+      "price": 230000,
+      "description": "Powerful touring bike for long-distance rides.",
+      "image": "/images/dominar-400.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Suzuki Gixxer SF",
+      "category": "bike",
+      "price": 140000,
+      "description": "Full fairing sports bike with stylish design.",
+      "image": "/images/gixxer-sf.jpg"
+    },
+    {
+      "id": 10,
+      "name": "TVS Ronin",
+      "category": "bike",
+      "price": 150000,
+      "description": "Modern retro motorcycle with comfortable riding.",
+      "image": "/images/tvs-ronin.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Honda Activa",
+      "category": "scooter",
+      "price": 80000,
+      "description": "Comfortable family scooter for daily travel.",
+      "image": "/images/honda-activa.jpg"
+    },
+    {
+      "id": 12,
+      "name": "TVS Jupiter",
+      "category": "scooter",
+      "price": 78000,
+      "description": "Practical scooter with comfortable seating.",
+      "image": "/images/tvs-jupiter.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Suzuki Access 125",
+      "category": "scooter",
+      "price": 85000,
+      "description": "Premium scooter with smooth performance.",
+      "image": "/images/suzuki-access.jpg"
+    },
+    {
+      "id": 14,
+      "name": "TVS iQube",
+      "category": "ev",
+      "price": 110000,
+      "description": "Electric scooter designed for city travel.",
+      "image": "/images/tvs-iqube.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ather 450X",
+      "category": "ev",
+      "price": 150000,
+      "description": "Smart electric scooter with modern features.",
+      "image": "/images/ather-450x.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ola S1 Pro",
+      "category": "ev",
+      "price": 130000,
+      "description": "Modern electric scooter with stylish design.",
+      "image": "/images/ola-s1-pro.jpg"
+    }
+  ]
+}
